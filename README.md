@@ -1,1 +1,1 @@
-# Python OPCUA Server and Client for a 6DOF SCARA arm simulation in Open Industry Project
+# Python OPCUA Server and Client for a 6DOF SCARA Arm Simulation in Open Industry Project
