@@ -1,1 +1,1 @@
-# python-opcua-server-and-client-for-OIP
+# Python OPCUA Server and Client for a 6DOF SCARA arm simulation in Open Industry Project
